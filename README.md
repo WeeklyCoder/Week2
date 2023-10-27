@@ -4,7 +4,7 @@ Get creative, create visuals, and reignite the excitement of this communication 
 ## 📃 Description:
 _Morse Code played a vital role in World War II, introduced the SOS distress signal, facilitated the first transatlantic Telegraph message, and aided communication during the Titanic disaster._
 
-## 👩‍⚖️ Rules of the game:
+## 👩‍⚖️ Rules:
 Whether it be the classic text to Morse Code converter or something visual, auditory, +, this one's up to you.
 
 ## ✨ Variation:
