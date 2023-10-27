@@ -1,0 +1,28 @@
+# Each of the characters in the Strign 'alphaNumerals' corresponds to the ' ' (space) separated values in the String 'morseCodes'.
+
+String alphaNumerals = "abcdefghijklmnopqrstuvwxyz1234567890";
+String morseCodes = ".- -... -.-. -.. . ..-. --. .... .. .--- -.- .-.. -- -. --- .--. --.- .-. ... - ..- ...- .-- -..- -.-- --.. .---- ..--- ...-- ....- ..... -.... --... ---.. ----. -----";
+
+A refresher on Morse Code:
+
+Morse Code is a system of communication that uses a series of dots and dashes to represent letters, numbers, and other characters. It was developed in the early 19th century by Samuel Morse and Alfred Vail for use with their newly invented telegraph system. Here's what you need to know about Morse Code:
+
+Basics of Morse Code: Morse Code uses two basic signals: dots (.) and dashes (-). Dots are short signals, while dashes are longer signals. These signals are combined to represent characters.
+
+Letters and Numbers: Each letter of the alphabet and each number has a unique Morse Code representation. For example, the letter "A" is represented by a dot followed by a dash (".-"), while the number "1" is represented by a dot followed by four dashes (".----").
+
+Timing: Morse Code relies on the timing of the dots and dashes. A dot is typically one unit of time, while a dash is three units of time. The duration of a unit depends on the particular application or transmission speed.
+
+Spaces: Spaces are used to separate letters, words, and sentences in Morse Code. The space between letters is typically one unit of time, the space between words is usually three units of time, and the space between sentences is seven units of time.
+
+International Morse Code: There are variations of Morse Code used in different countries, but the most commonly used version is International Morse Code. This version is standardized and used worldwide. It includes representations for the letters of the alphabet, numbers, punctuation marks, and special characters.
+
+Morse Code Examples:
+
+SOS: ... --- ...
+HELLO: .... . .-.. .-.. ---
+123: .---- ..--- ...--
+
+Morse Code in Practice: Morse Code was widely used for long-distance communication before the development of modern technologies. It was commonly used with telegraph systems and later with radio communication. Morse Code can still be used today, especially in situations where voice communication is not possible or practical, such as certain military and aviation applications.
+
+Learning Morse Code: To learn Morse Code, it's helpful to study the patterns and practice decoding and encoding messages. There are various resources available, including online tutorials, mobile apps, and practice exercises.
