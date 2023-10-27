@@ -12,7 +12,7 @@ Not everything has to be about mundane functionality. Experimentation suggestion
 
 ## 💡 Where to start? (Ideas)
 It’s always Input, Process, Output.
-- Let you start by creating the classic Text to Morse converter. Open up Guide.txt to get started.
+- Let you start by creating the classic Text to Morse converter. Open up **[Guide.txt](https://github.com/WeeklyCoder/Week2/blob/main/Guide.txt)** to get started.
 - See how easily you could take in a Morse Code and convert it to human readable Text.
 
 ## 🥨 Twists
